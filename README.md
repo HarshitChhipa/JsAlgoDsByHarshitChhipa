@@ -4,7 +4,7 @@
   - Linked List
 
 # Random
-
+```
 // const conditionsObject = {
 // //   condition: "and",
 // //   rules: [
@@ -72,3 +72,4 @@
 //   }
 // });
 // console.log(outputArray);
+```
