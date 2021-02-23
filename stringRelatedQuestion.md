@@ -1,4 +1,4 @@
-//
+# Find the substring of string provided by user having minimum a^ib^jc^k
 ```function getSubsequenceOfString(string) {
 if(!(string.includes('a') === -1 && string.includes('b') === -1 && string.includes('c') === -1)){
 let aCount =0, bCount=0, cCount =0;
